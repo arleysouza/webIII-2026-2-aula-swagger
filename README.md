@@ -1,4 +1,4 @@
-﻿# Aula 4 — Documentação de APIs com OpenAPI e Swagger
+﻿# Aula — Documentação de APIs com OpenAPI e Swagger
 
 Projeto didático de uma API acadêmica para cadastrar alunos, disciplinas e matrículas. O foco da aula é descrever o contrato da API com OpenAPI, gerar documentação a partir do código NestJS e explorar as operações pela interface Swagger UI.
 
